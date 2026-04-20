@@ -24,8 +24,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Create a windows and ubuntu virtual machine
 - Observe traffic using wireshark
-- 
-- Step 4
+- Observe and Make Connections 
 
 <h2>Actions and Observations</h2>
 
